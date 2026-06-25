@@ -2,7 +2,7 @@
 <h3 align="center">Cyber Security Specialist | Penetration Tester | AI/ML Security Researcher</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1F5CA8&center=true&vCenter=true&width=600&lines=Offensive+%26+Defensive+Security;Penetration+Testing+%7C+Vulnerability+Assessment;AI%2FML-Based+Threat+Detection;MSc+Cyber+Security+%7C+University+of+Derby" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1F5CA8&center=true&vCenter=true&width=600&lines=Offensive+%26+Defensive+Security;Penetration+Testing+%7C+Vulnerability+Assessment;AI%2FML-Based+Threat+Detection" alt="Typing SVG" />
 </p>
 
 ---
@@ -153,4 +153,4 @@ Personal home lab built to practise offensive security techniques in a safe, con
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=1F5CA8&style=flat" alt="profile views" />
 </p>
 
-<p align="center"><i>"The quieter you become, the more you are able to hear." — Kali Linux</i></p>
+<p align="center"><i>"Break The Rules Heal The System." — CyTech </i></p>
