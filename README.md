@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Muhammad Asad Iqbal 👋</h1>
+<h1 align="center">Hi, I'm Muhammad Asad 👋</h1>
 <h3 align="center">Cyber Security Specialist | Penetration Tester | AI/ML Security Researcher</h3>
 
 <p align="center">
@@ -9,14 +9,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **MSc Cyber Security** — University of Derby, UK *(Merit | Thesis: Distinction)*
-- 🎓 **BSc Information Technology** — Institute of Southern Punjab, Pakistan
-- 🔐 Passionate about **Penetration Testing**, **Threat Detection** and **AI-driven Security**
+- 🔐 Passionate about **Penetration Testing**, **Threat Detection** and **AI/ML-Driven Security**
 - 🧠 Built a **Machine Learning Intrusion Detection System** for my thesis using the CICIDS2017 dataset
-- 🏆 Certified **LLM Security Professional** & **Cisco Ethical Hacker**
-- 🌍 Based in **Birmingham, United Kingdom**
+- 🏆 Certified **Certificate in Cybersecurity**, **Cisco Ethical Hacker** and **LLM Security Professional**
 - 📬 Reach me at: **[your.email@email.com]**
-- 💼 Open to: **Junior Penetration Testing | SOC Analyst | Cyber Security Internship roles**
+- 💼 Open to: **Penetration Testing | SOC Analyst | Cyber Security Internship roles**
 
 ---
 
@@ -25,7 +22,8 @@
 ```
 Offensive Security          Defensive Security (Blue Team)
 ─────────────────────       ──────────────────────────────
-Penetration Testing         Threat Detection & Analysis
+Penetration Testing         SOC Analyst
+AI Penetration Testing      Threat Detection & Analysis
 Web Application Security    Intrusion Detection (IDS/IPS)
 Vulnerability Assessment    Incident Response
 Exploitation Techniques     Log Analysis & SIEM
@@ -52,26 +50,7 @@ My MSc thesis project — built and evaluated a machine learning pipeline to det
 
 ---
 
-### 🏠 Internal Penetration Testing Lab
-> **VMware Workstation | Kali Linux | Metasploitable2 | DVWA**
 
-Personal home lab built to practise offensive security techniques in a safe, controlled environment.
-
-- Set up virtualised network with **Kali Linux** as the attack machine
-- Deployed **Metasploitable2** and **DVWA** as vulnerable targets
-- Practised **reconnaissance, exploitation and privilege escalation**
-- Simulated real-world attack scenarios end to end
-
----
-
-### 🎯 HackTheBox
-> **Web Security | Networking | Linux & Windows Enumeration**
-
-- Completed **50+ rooms** across web application security, networking and enumeration
-- Focused on both **offensive and defensive** techniques
-- Sharpened skills in **CTF-style** real-world security challenges
-
----
 
 ## 🧰 Tech Stack & Tools
 
@@ -95,17 +74,6 @@ Personal home lab built to practise offensive security techniques in a safe, con
 
 ---
 
-## 📜 Certifications
-
-| Certification | Issuer | Year |
-|---|---|---|
-| 🏆 Certified LLM Security Professional (CLLMSP) | Red Team Leaders | 2026 |
-| 🛡️ Ethical Hacker | Cisco | 2025 |
-| 🔐 Certificate in Cyber Security | NAVTTC | 2022 |
-| 🐧 Linux Fundamentals | Coursera | 2022 |
-| 🌐 Introduction to Cybersecurity | Cisco | 2020 |
-
----
 
 ## 🔧 Security Frameworks & Compliance
 
@@ -135,12 +103,6 @@ Personal home lab built to practise offensive security techniques in a safe, con
 <p align="left">
 <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://tryhackme.com/p/YOUR_USERNAME" target="_blank">
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-</a>
-<a href="https://app.hackthebox.com/profile/YOUR_ID" target="_blank">
-<img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
 </a>
 <a href="mailto:your.email@email.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
